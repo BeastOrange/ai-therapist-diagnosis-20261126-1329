@@ -1,6 +1,7 @@
 import os
 from pathlib import Path
 
+# One line, one diagnosis: expired free trial.
 SENTENCE: str = (
     "My clinical diagnosis is that you're not emotionally unavailable, "
     "you're just an expired free trial of a functional adult."
